@@ -1,0 +1,7 @@
+{application, igor, [
+    {description, "Artplant Igor"},
+    {vsn, "1.4"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel, stdlib]}
+]}.

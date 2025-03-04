@@ -1,0 +1,1 @@
+-define(require(Var, Name), if Var =:= undefined -> error({require, Name}); true -> ok end).
